@@ -1,4 +1,10 @@
 # Telegram Bot API Proxy – Cloudflare Workers
+<div align="center">
+
+🌍 [English](https://github.com/Argh94/Telegram-Bot-API-Proxy-Cloudflare-Workers/blob/main/README.md) | 🌐[فارسی](https://github.com/Argh94/Telegram-Bot-API-Proxy-Cloudflare-Workers/blob/main/README_fa.md)
+
+</div>
+
 Professional, optimized and secure edition for Iran and other blocked countries!
 
 ![Worker Status](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&style=flat-square)
